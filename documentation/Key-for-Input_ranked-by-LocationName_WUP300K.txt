@@ -1,0 +1,11 @@
+The field descriptions in Input_ranked-by-LocationName_WUP300K.csv:
+UrbanAgg:	Name of urban agglomeration
+Country:	Country where urban agglomeration is located
+Region:		Region that urban agglomeration is located
+Pop2010:	Decadal populations recorded in WUP (published in 2018)
+PopR7080-PopR0010:Decadal population change rates (from decadal population found in WUP)
+ArR7080-ArR0010:Decadal urban expansion rates
+PD1970-PD2010:	Calculated decadal population densities
+Authors:	Authors of study
+Journal:	Journal where study is published
+Year:		Year that study was published
