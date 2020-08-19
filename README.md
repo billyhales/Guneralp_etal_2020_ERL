@@ -1,4 +1,8 @@
-# Guneralp_etal_2020_ERL
+# Trends in urban land expansion, density, and land transitions from 1970 to 2010: a global synthesis
+Burak Guneralp, Meredith Reba, Billy U Hales, Elizabeth A Wentz Karen C Seto
+Environmental Research Letters. 15(4). https://doi.org/10.1088/1748-9326/ab6669
+
+This repository contains code that is used to generate figures within the above research work.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
